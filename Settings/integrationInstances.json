@@ -1,0 +1,26 @@
+[
+    {
+        "environment": "Default Environment",
+        "integrationIdentifier": "Tools",
+        "settings": {
+            "instanceDescription": null,
+            "instanceName": "System Default Instance",
+            "settings": [
+                {
+                    "integrationIdentifier": "Tools",
+                    "propertyName": "AgentIdentifier",
+                    "propertyDescription": null,
+                    "propertyDisplayName": "Agent",
+                    "propertyType": 9,
+                    "isMandatory": false,
+                    "value": null,
+                    "integrationInstance": "9cd9ed22-530b-4081-9e64-7fb9d8bf040b",
+                    "environment": null,
+                    "id": 0,
+                    "creationTimeUnixTimeInMs": 0,
+                    "modificationTimeUnixTimeInMs": 0
+                }
+            ]
+        }
+    }
+]
